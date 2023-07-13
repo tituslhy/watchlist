@@ -8,9 +8,9 @@ pip install -r requirements.txt
 
 <br>
 Setup your MongoDB database instance and key in the connection string to the .env file - see ".env.example". Be sure to:
-* Name your database as 'watchlist', 
-* Create a "titles" collection, and
-* Create a "users" collection to handle user login
+1. Name your database as 'watchlist', 
+2. Create a "titles" collection, and
+3. Create a "users" collection to handle user login
 <br>
 To run the project locally:
 
