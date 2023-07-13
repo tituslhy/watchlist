@@ -3,10 +3,10 @@ This is my first full stack development project. The project was not deployed to
 
 The website allows for users to log their favorite movies and videos in a watchlist, 
 1. Displaying a thumbnail of an embedded video for them to relieve their experience of the movie
-<img title="home" width="120px" src="./imgs/home.png"><br><br>
-<img title="play" width="120px" src="./imgs/movie.png"><br><br>
+<img title="home" src="./imgs/home.png"><br><br>
+<img title="play" src="./imgs/movie.png"><br><br>
 2. Allow for users to update any properties of movies.
-<img title="Edit" width="120px" src="./imgs/edit.png"><br><br> 
+<img title="Edit" src="./imgs/edit.png"><br><br> 
 
 ## To start the website
 ```
