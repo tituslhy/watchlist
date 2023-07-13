@@ -17,8 +17,9 @@ The website allows for users to log their favorite movies and videos in a watchl
 2. When clicking on "Edit" in the movie page, users can update any of the movie's properties.
 <img title="Edit" src="./imgs/edit.png"><br><br> 
 3. MongoDB only stores the hashed password of the user at registration. Thereafter, only the hashed password inputs are compared against the database's password for better security.
+4. The app also has a "dark" mode - just for fun!
+<img title="Edit" src="./imgs/darkmode.png"><br><br> 
 
-<br>
 This project was built using flask, and flask_wtf.
 
 ## To start the website
