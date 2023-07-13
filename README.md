@@ -13,11 +13,15 @@ Setup your MongoDB database instance and key in the connection string to the .en
 * Create a "users" collection to handle user login
 <br>
 To run the project locally:
+
 ```
 flask run
 ```
+
 <br> OR
+
 ```
 gunicorn: "movie_library.create_app()"
 ```
+
 <br>
