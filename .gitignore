@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+movie_library/__pycache__/
+.env
+debug.py
