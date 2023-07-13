@@ -7,8 +7,6 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
-
-<br>
 This is my first full stack development project. The project was not deployed to a free server as this is a proof-of-concept. This ensures sufficient credits for the deployment of other web development tools. <br>
 
 The website allows for users to log their favorite movies and videos in a watchlist
