@@ -1,5 +1,12 @@
 # watchlist
-This is my first full stack development project. The website allows for users to log their favorite movies and videos in a watchlist, displaying a thumbnail of an embedded video for them to relieve their experience of the movie, and for users to update any properties of movies. 
+This is my first full stack development project. The project was not deployed to a free server as this is a proof-of-concept. This ensures sufficient credits for the deployment of other web development tools. <br>
+
+The website allows for users to log their favorite movies and videos in a watchlist, 
+1. Displaying a thumbnail of an embedded video for them to relieve their experience of the movie
+<img title="home" width="120px" src="./imgs/home.png"><br><br>
+<img title="play" width="120px" src="./imgs/movie.png"><br><br>
+2. Allow for users to update any properties of movies.
+<img title="Edit" width="120px" src="./imgs/edit.png"><br><br> 
 
 ## To start the website
 ```
@@ -21,10 +28,8 @@ To run the project locally:
 flask run
 ```
 
-<br> OR
+OR
 
 ```
 gunicorn: "movie_library.create_app()"
 ```
-
-<br>
